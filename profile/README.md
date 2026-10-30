@@ -11,8 +11,9 @@ Help improve Kepler through testing, documentation, code, or user feedback.
 
 - We follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md).
 - Join our [twice-monthly community meetings](https://zoom-lfx.platform.linuxfoundation.org/meetings/kepler?view=month) and #kepler-project on [CNCF Slack](https://slack.cncf.io/) to learn what we're working on today.
-- [Get started with Kepler](https://sustainable-computing.io/kepler/installation/guide/): how to install Kepler and check your first energy metrics.
-- [Read through the project board](https://github.com/orgs/sustainable-computing-io/projects/9/views/2): find work you can help with.
+- [Get started with Kepler](https://sustainable-computing.io/kepler/installation/guide/): install Kepler and check your first energy metrics.
+- [Find a good first issue](https://github.com/sustainable-computing-io/kepler/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22): and introduce yourself in the issue before starting work.
+- [Explore the project board](https://github.com/orgs/sustainable-computing-io/projects/9/views/2): find other work you can help with.
 
 ## 👩‍💻 Learn about Kepler 
 - [Read about the Kepler rewrite](https://www.cncf.io/blog/2026/06/30/kepler-re-architected-improved-power-accuracy-and-a-community-call-to-action/): what changed and why.
